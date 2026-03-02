@@ -23,3 +23,6 @@ This is a repo to test LLM capability by using IOI 2025 problem: Day 2 Obstacles
     bash run_tests.sh ~/random-directory/main.cpp 2048000 2 # Memory limit and time limit
     ```
 
+## Solutions
+
+The official solutions from IOI can be checked on `solutions` directory.
